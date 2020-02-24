@@ -2,6 +2,7 @@
 ## environment
 - tensorflow 1.13.2
 - learning rate 1e-4
+- datasets : cifar10
 
 ## using callback
 - learning rate decay
